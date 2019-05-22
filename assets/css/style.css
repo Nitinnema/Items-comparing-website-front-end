@@ -1,0 +1,252 @@
+.navbar-brand, .navbar-nav{
+	margin-left: 8%;
+}
+.collapse{
+	margin-left: 4%;
+}
+.collapse .btn{
+	border-radius: 0;
+	border:1px solid gray;
+}
+.collapse input{
+	border: 1px solid gray;
+	min-width: 340px;
+}
+.social{
+	border: 1px solid gray;
+	border-radius: 0;
+}
+.handle{
+	margin-right: 10%;
+}
+.categories{
+	background-color: #e8f5ff;
+}
+.categories .nav-pills{
+	margin-left: 12%;
+}
+.carousel-item {
+    height: 600px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size:cover;
+}
+.advertisement a{
+	margin-top: -300px;
+}
+.offering{
+	margin-top: -280px;
+}
+.offering .card:first-child{
+	margin-left: 3%;
+}
+.offering .card{
+	margin-left: 0.5%;
+}
+.offering .card img{
+	width: 230px;
+	height: 180px;
+}
+.offer{
+	margin-top: 10px;
+}
+.items{
+	background-color: #f2f2f2;
+	margin-top: -85px;
+}
+.dealsofday .heading{
+	border-bottom: 1px solid gray;
+	padding-left: 20px;
+	padding-top: 5px;
+	margin-top: 110px;
+	background-color: #fff;
+}
+.dealsofday .heading a{
+	margin-top: -39.5px;
+	margin-right: 5%;
+}
+.dealsofday .dddd{
+	height: 325px;
+	width: 100%;
+	margin-left: 0;
+}
+.dealsofday .dddd a{
+	text-decoration: none;
+}
+.dealsofday .item-box{
+	padding: 10px 35px;
+	background-color: #fff;
+	width: 248.2px;
+	height: 320px;
+}
+.dealsofday .item-box img{
+	width: 150px;
+	height: 180px;
+	margin: 10px 0;
+}
+.dealsofday .item-box h6{
+	color: #000;
+}
+.dealsofday .item-box p{
+	margin-bottom: 2px;
+}
+.compare{
+	margin-top: 30px;
+}
+.compare .nav-link {
+    border: 1px solid gray;
+	background-color: #fcfcfc;
+   	width: 140px;
+    border-radius: 0;
+}
+.compare .nav-item:first-child{
+	margin-left: 220px;
+}
+.tab-content{
+	background-color: #fff;
+	width: 1200px;
+	margin-left: 125px;
+	margin-top: 10px;
+}
+.tab-content h4{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.compare-form{
+	background-color: #e8f5ff;
+	margin-top: -385px;
+	height: 130px;
+}
+.compare-form input{
+	width: 250px;
+	height: 30px;
+	padding-left: 5px;
+	margin-top: 20px;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+.compare-items{
+    width: 1200px;
+   	margin-left: 2px;
+   	margin-top: 105px;
+}
+.compare-items .card{
+    width: 600px;
+    margin-left: 0px;
+    border-radius: 0;
+}
+.compare-items ul{
+    list-style: none;
+   	padding-left: 0;
+   }
+.compare-items ul li a{
+    line-height: 30px;
+   	color: #000;
+}
+.tab-content .active{
+	background-color: #eeeeee;
+}
+.nav-pills .active{
+	background-color: #eeeeee;
+}
+.news .carousel-item {
+    height: 380px;
+    margin: 20px 0 10px 0;
+    background: no-repeat center center scroll;
+    background-size:cover;
+}
+.carousel-indicators{
+	margin-bottom: -45px;
+}
+.carousel-indicators li{
+	width: 10px;
+    height: 10px;
+    margin: 2px;
+    border-radius: 50%;
+    border: 0;
+} 
+.carousel-caption{
+	color: #000;
+	margin-bottom: 30px;
+}
+.foot-logo{
+	//border:1px solid red;
+	margin-left:15%;
+	margin-top:10px;
+}
+.foot-logo .social-links{
+	padding:0;
+	margin:19px -2px;
+	//border:1px solid red;
+}
+.foot-logo .social-links li{
+    display:inline-block;
+}
+.foot-logo .social-links li a{
+	color:#fff;
+}
+.foot-logo .social-links li a:hover{
+	color:#ff4444;
+}
+.foot-logo .social-links li a span i:nth-child(2){
+	color:#3f729b;
+}
+.link1{
+	margin-left:110px;
+	width:110px;
+	//border:1px solid red;
+}
+.link2{
+	width:110px;
+	margin-left:110px;
+	//border:1px solid red;
+}
+.link4{
+	width:160px;
+	margin-left:110px;
+	margin-bottom: 20px;
+}
+.link1 ul,.link2 ul,.link4 ul{
+	list-style:none;
+	padding:0;
+}
+.link1 ul li,.link2 ul li,.link4 ul li{
+    line-height:30px;
+}
+.link1 ul li a,.link2 ul li a,.link4 ul li a{
+	color:#fff;;
+	text-decoration:none;
+}
+.link1 ul li a:hover,.link2 ul li a:hover,.link4 ul li a:hover{
+	color:#333;
+	text-decoration:underline;
+	font-weight:600;
+}
+.copyright{
+	color:#fff;
+	background-color:#1bc0da;
+	overflow:hidden;
+	padding-top:10px;
+}
+.mybutton i{
+	font-size:20px;
+}
+.mybutton{
+	color:#fff;
+	z-index:100;
+	position:fixed;
+	bottom:28px;
+	right:30px;
+	display:none;
+}
+
+
+
+
+
+
+
+
+
